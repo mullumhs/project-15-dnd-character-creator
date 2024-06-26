@@ -4,7 +4,7 @@
 This project implements a Dungeons & Dragons (D&D) character creation and management system using Object-Oriented Programming (OOP) principles in Python.
 
 ## Requirements
-1. Create a base Character class with attributes like name, race, class, level, hit points, armor class, and ability scores.
+1. Create a base Character class with attributes like name, race, class, level, hit points, armour class, and ability scores.
 2. Implement a Dice class for rolling dice.
 3. Create methods for rolling random stats, leveling up characters, and displaying character information.
 4. Develop a user interface for character creation, viewing, and management.
@@ -16,7 +16,7 @@ This project implements a Dungeons & Dragons (D&D) character creation and manage
 ## Key Components
 
 ### Character Class
-- Attributes: name, race, class, level, hit points, armor class, ability scores
+- Attributes: name, race, class, level, hit points, armour class, ability scores
 - Methods:
   - Generate random ability scores
   - Apply racial bonuses
